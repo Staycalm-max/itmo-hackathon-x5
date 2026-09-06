@@ -4,7 +4,23 @@
 
 Показать честный концептуальный PoC и подготовить проверку двух гипотез: добавляет ли объединение покупок семьи ценность к персональной цели и добавляет ли игровой ростомер эффект к тому же семейному результату без игры. X5 должна иметь возможность связать каждое изменение с покупочными днями и contribution margin.
 
-**Статус Product Manager:** задачи 1–11 собраны в `IVAN_FINAL_PACKAGE.md`; обновлённая презентация находится в `output/presentation/PRESENTATION_FINAL_DRAFT.pptx` и `.pdf`. Остаются командная проверка формулировок и подстановка новых воспроизводимых результатов инженеров.
+## Фактическое выполнение задач Ивана
+
+| № | Результат | Статус и файл |
+|---:|---|---|
+| 1 | Исследовательский блок без пользовательских интервью | ✅ `research/SECONDARY_RESEARCH_HYPOTHESES.md`, `research/RASTEM_VMESTE_INTERVIEW_AUDIT.md`, `research/EXPERT_INTERVIEW_09_06_ANALYSIS.md` |
+| 2 | Целевой профиль и отдельный Job-контекст | ✅ `PRODUCT_BRIEF.md`, `CONTEXT_PACK.md` |
+| 3 | Допустимые и запрещённые утверждения | ✅ `research/CLAIMS_AND_EVIDENCE.md` |
+| 4 | Три продуктовых вывода из RuStore | ✅ `research/RUSTORE_REVIEWS.md`, слайд 3 |
+| 5 | Одностраничный A/B/C/D-пилот | ✅ `PILOT_DESIGN.md` |
+| 6 | Профиль, AJTBD и решение менеджера программы | ✅ `PRODUCT_BRIEF.md`, слайд 8 |
+| 7 | Шесть фактов с источниками и ограничениями | ✅ `research/CLAIMS_AND_EVIDENCE.md` |
+| 8 | Проверяемые цитаты RuStore | ✅ `research/CLAIMS_AND_EVIDENCE.md` |
+| 9 | Основные документы и исследовательский слайд | ✅ `CONTEXT_PACK.md`, `PRODUCT_BRIEF.md`, слайд 3 |
+| 10 | Экономика и точка безубыточности | ✅ `ECONOMICS.md`, `PILOT_DESIGN.md` |
+| 11 | Семиминутная защита | ✅ `DEFENSE_SCRIPT.md`, `output/presentation/PRESENTATION_FINAL_DRAFT.pptx` и `.pdf` |
+
+Продуктовая часть готова. Остаются командная проверка текста вслух и подстановка новых воспроизводимых результатов инженеров в слайд 6.
 
 ## Задачи Ивана — Product Manager
 

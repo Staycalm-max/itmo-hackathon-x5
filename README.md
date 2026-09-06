@@ -30,6 +30,8 @@
 - `CONTEXT_PACK.md` — факты, гипотезы и решения.
 - `CHECKPOINT_PLAN.md` — план и критерии чек-поинта.
 - `FINAL_TASK_PLAN.md` — актуальный план команды и отличия от предыдущего списка задач.
+- `IVAN_FINAL_PACKAGE.md` — готовые продуктовые материалы, пилот, факты и сценарий защиты.
+- `output/presentation/PRESENTATION_FINAL_DRAFT.pptx` / `.pdf` — обновлённый черновик финальной защиты.
 - `DEMO.md` — контракт сквозного демо.
 - `AI_LOG.md` — использование AI.
 - `ECONOMICS.md` — сценарные расчёты и sensitivity.
